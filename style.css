@@ -1,0 +1,44 @@
+body{
+    background-color: #c9e4c5;
+}
+h1{
+    color: #867ae9;
+}
+h3{
+    color: #7868E6;
+}
+hr{
+    /* width: 100px; */
+    /* height: 20px; */
+    /* border: dotted; */
+    /* border-color: gray; */
+    /* height: 20px; */
+    /* border-bottom: none; */
+    /* border-left: none; */
+    /* border-right: none; */
+    /* border-width: 5px; */
+
+    width: 100px;
+    border: none;
+    border-top: dotted;
+    border-color: gray;
+    border-width: 5px;
+
+}
+.book-heading{
+    color: darkblue;
+}
+.skill-heading{
+    color: darkred;
+}
+#book-heading-id{
+    color:orange;
+}
+
+
+
+
+
+
+
+
